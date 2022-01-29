@@ -10,6 +10,12 @@ margin: 1% 2%;
 display: inline;
 }
 
+@media (max-width: 410px){
+  #top-mobile,#top-email{
+    display: block;
+    }
+}
+
 .top-icon{
   color: rgb(230, 230, 47);
 }
